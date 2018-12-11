@@ -1,6 +1,6 @@
 # Boilerplate
 
-##Dependencies
+## Dependencies
 This project use following tools
  - [Angular CLI](https://github.com/angular/angular-cli) (7.1.2)
  - [Angular](https://angular.io/) (7.1.0) 
