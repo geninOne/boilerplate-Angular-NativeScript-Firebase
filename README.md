@@ -1,4 +1,6 @@
 # Boilerplate
+[![dependencies Status](https://david-dm.org/geninone/boilerplate-Angular-NativeScript-Firebase/status.svg)](https://david-dm.org/geninone/boilerplate-Angular-NativeScript-Firebase)
+[![MIT license](http://img.shields.io/badge/license-MIT-green.svg)](http://opensource.org/licenses/MIT)
 
 ## Dependencies
 This project use following tools
